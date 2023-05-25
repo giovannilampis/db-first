@@ -24,59 +24,65 @@
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">Marca</th>
+                    <th class="text-danger" scope="row">Marca</th>
                     <td>Mark</td>
                     <td>Otto</td>
                     <td>@mdo</td>
                 </tr>
                 <tr>
-                    <th scope="row">Modello</th>
+                    <th class="text-danger" scope="row">Modello</th>
                     <td>Jacob</td>
                     <td>Thornton</td>
                     <td>@fat</td>
                 </tr>
                 <tr>
-                    <th scope="row">Targa</th>
+                    <th class="text-danger" scope="row">Colore</th>
+                    <td>Jacob</td>
+                    <td>Thornton</td>
+                    <td>@fat</td>
+                </tr>
+                <tr>
+                    <th class="text-danger" scope="row">Targa</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
-                    <th scope="row">Numero VIN</th>
+                    <th class="text-danger" scope="row">Numero VIN</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
-                    <th scope="row">Numero Immatricolazione</th>
+                    <th class="text-danger" scope="row">Numero Immatricolazione</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
-                    <th scope="row">Cilindrata</th>
+                    <th class="text-danger" scope="row">Cilindrata</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
-                    <th scope="row">Anno</th>
+                    <th class="text-danger" scope="row">Anno</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
-                    <th scope="row">Cambio</th>
+                    <th class="text-danger" scope="row">Cambio</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
-                    <th scope="row">KM</th>
+                    <th class="text-danger" scope="row">KM</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
-                    <th scope="row">Carburante</th>
+                    <th class="text-danger" scope="row">Carburante</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
-                    <th scope="row">Potenza</th>
+                    <th class="text-danger" scope="row">Potenza</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
