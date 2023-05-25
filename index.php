@@ -25,65 +25,74 @@
             <tbody>
                 <tr>
                     <th class="text-danger" scope="row">Marca</th>
-                    <td>Mark</td>
+                    <td>VARCHAR(50)</td>
                     <td>Otto</td>
                     <td>@mdo</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Modello</th>
-                    <td>Jacob</td>
+                    <td>VARCHAR(50)</td>
                     <td>Thornton</td>
                     <td>@fat</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Colore</th>
-                    <td>Jacob</td>
+                    <td>VARCHAR(50)</td>
                     <td>Thornton</td>
                     <td>@fat</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Targa</th>
-                    <td colspan="2">Larry the Bird</td>
-                    <td>@twitter</td>
+                    <td>VARCHAR(20)</td>
+                    <td></td>
+                    <td>PRIMARY KEY</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Numero VIN</th>
-                    <td colspan="2">Larry the Bird</td>
+                    <td>VARCHAR(30)</td>
+                    <td></td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Numero Immatricolazione</th>
-                    <td colspan="2">Larry the Bird</td>
+                    <td>VARCHAR(70)</td>
+                    <td></td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Cilindrata</th>
-                    <td colspan="2">Larry the Bird</td>
+                    <td>TINYINT</td>
+                    <td></td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Anno</th>
-                    <td colspan="2">Larry the Bird</td>
+                    <td>YEAR</td>
+                    <td></td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Cambio</th>
-                    <td colspan="2">Larry the Bird</td>
+                    <td>VARCHAR(30)</td>
+                    <td></td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">KM</th>
-                    <td colspan="2">Larry the Bird</td>
+                    <td>INT</td>
+                    <td></td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Carburante</th>
-                    <td colspan="2">Larry the Bird</td>
+                    <td>VARCHAR(30)</td>
+                    <td></td>
                     <td>@twitter</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Potenza</th>
-                    <td colspan="2">Larry the Bird</td>
+                    <td>VARCHAR(30)</td>
+                    <td></td>
                     <td>@twitter</td>
                 </tr>
             </tbody>
