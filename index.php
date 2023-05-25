@@ -38,7 +38,7 @@
                 <tr>
                     <th class="text-danger" scope="row">Colore</th>
                     <td>VARCHAR(50)</td>
-                    <td>Thornton</td>
+                    <td>NOT NULL</td>
                     <td></td>
                 </tr>
                 <tr>
