@@ -36,6 +36,21 @@
                     <td>@fat</td>
                 </tr>
                 <tr>
+                    <th scope="row">Targa</th>
+                    <td colspan="2">Larry the Bird</td>
+                    <td>@twitter</td>
+                </tr>
+                <tr>
+                    <th scope="row">Numero VIN</th>
+                    <td colspan="2">Larry the Bird</td>
+                    <td>@twitter</td>
+                </tr>
+                <tr>
+                    <th scope="row">Numero Immatricolazione</th>
+                    <td colspan="2">Larry the Bird</td>
+                    <td>@twitter</td>
+                </tr>
+                <tr>
                     <th scope="row">Cilindrata</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
@@ -62,11 +77,6 @@
                 </tr>
                 <tr>
                     <th scope="row">Potenza</th>
-                    <td colspan="2">Larry the Bird</td>
-                    <td>@twitter</td>
-                </tr>
-                <tr>
-                    <th scope="row">Venditore</th>
                     <td colspan="2">Larry the Bird</td>
                     <td>@twitter</td>
                 </tr>
