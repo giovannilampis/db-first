@@ -27,19 +27,19 @@
                     <th class="text-danger" scope="row">Marca</th>
                     <td>VARCHAR(50)</td>
                     <td>Otto</td>
-                    <td>@mdo</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Modello</th>
                     <td>VARCHAR(50)</td>
                     <td>Thornton</td>
-                    <td>@fat</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Colore</th>
                     <td>VARCHAR(50)</td>
                     <td>Thornton</td>
-                    <td>@fat</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Targa</th>
@@ -51,49 +51,49 @@
                     <th class="text-danger" scope="row">Numero VIN</th>
                     <td>VARCHAR(30)</td>
                     <td></td>
-                    <td>@twitter</td>
+                    <td>SECONDARY KEY</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Numero Immatricolazione</th>
                     <td>VARCHAR(70)</td>
                     <td></td>
-                    <td>@twitter</td>
+                    <td>INDEX</td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Cilindrata</th>
                     <td>TINYINT</td>
                     <td></td>
-                    <td>@twitter</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Anno</th>
                     <td>YEAR</td>
                     <td></td>
-                    <td>@twitter</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Cambio</th>
                     <td>VARCHAR(30)</td>
                     <td></td>
-                    <td>@twitter</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">KM</th>
                     <td>INT</td>
                     <td></td>
-                    <td>@twitter</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Carburante</th>
                     <td>VARCHAR(30)</td>
                     <td></td>
-                    <td>@twitter</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <th class="text-danger" scope="row">Potenza</th>
                     <td>VARCHAR(30)</td>
                     <td></td>
-                    <td>@twitter</td>
+                    <td></td>
                 </tr>
             </tbody>
         </table>
